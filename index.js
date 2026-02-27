@@ -102,7 +102,7 @@ let random = {
         return rez
     }
 }
-const arr = r.arr(5,true,1,10,"abc",3,undefined,undefined,1)
+const arr = random.arr(5,true,1,10,"abc",3,undefined,undefined,1)
 let str = ""
 console.log(arr)
 for(let i = 0 ; i <= arr.length - 1;i++){

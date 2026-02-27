@@ -7,7 +7,7 @@ for(let i = 0 ; i <= arr.length - 1;i++){
 }
 console.log(str)
 console.log(arr.join(""))
-
+//a
 const cards = [
   'Карточка-1',
   'Карточка-2',
